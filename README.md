@@ -8,7 +8,7 @@
 
 ## Summer Homework
 
-> Students that participated in the summer prep sessions and submitted the required work are exempt from this homework. All other students have to complete the following homework
+> Students that participated in the summer-prep sessions and submitted the required work are exempt from parts B & C of this homework. All other students have to complete parts A, B, & C
 
 [Summer Homework](https://docs.google.com/document/d/17jS_v75Tj23JDLkrZS79BdVJHUfgB1XFcV7dpIrwK84/edit?usp=sharing)
 
