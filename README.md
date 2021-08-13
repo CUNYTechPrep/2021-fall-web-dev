@@ -126,14 +126,14 @@ Topics:
 
 - _Lab Time: Work on Projects_
 
-## (5/7 - 5/10) Week 13
+## (12/7 - 12/10) Week 13
 
 Topics: 
 
 - Practice Demo Night Pitches and Demos
 - _Lab Time: Work on Projects_
 
-## () DEMO NIGHT
+## (Tentatively 12/14) DEMO NIGHT
 
 ### Demo Night
 
