@@ -14,7 +14,7 @@
 
 ## (8/31 - 9/3) Week 1
 
-[Lecture Slides](lecture-01.pdf)
+[Lecture Slides](materials/lecture-01.pdf)
 
 [Bootstrap Lab](https://github.com/CUNYTechPrep/bootstrap-lab)
 
