@@ -14,9 +14,11 @@
 
 ## (8/31 - 9/3) Week 1
 
-[Lecture Slides](lecture.pdf)
+[Lecture Slides](lecture-01.pdf)
 
-Topics: 
+[Bootstrap Lab](https://github.com/CUNYTechPrep/bootstrap-lab)
+
+Topics:
 
 - Semester Overview
 - Designing Web Apps
@@ -25,7 +27,12 @@ Topics:
 
 Assignments:
 
-- []
+- Project Ideation: provide your idea in the ideation document
+    + Due before Week 2 class
+- Meet your classmates and form team
+    + Due before Week 3 class
+- Make a [Professional Portfolio Website](https://github.com/CUNYTechPrep/bootstrap-lab#project-2-build-a-personal-professional-web-page-for-yourself)
+    + Due before Week 5 class
 
 ## (9/7 - 9/10) NO CLASS
 
@@ -34,13 +41,13 @@ Assignments:
 
 > If you can't attend Wed 9/15 or Thur 9/16 class, contact your instructor to be excused.
 
-Topics: 
+Topics:
 
 - React Intro
 
 ## (9/21 - 9/24) Week 3
 
-Topics: 
+Topics:
 
 - Client-Server Communication
     + Parts of a URL
@@ -51,13 +58,13 @@ Topics:
 
 ## (9/28 - 10/1) Week 4
 
-Topics: 
+Topics:
 
 - More `fetch()` and React
 
 ## (10/5 - 10/8) Week 5
 
-Topics: 
+Topics:
 
 - Fullstack Review: Frontend vs Backend
 - About `npm`
@@ -70,7 +77,7 @@ Topics:
 
 ## (10/12 - 10/15) Week 6
 
-Topics: 
+Topics:
 
 - SDLC
 - MVC (_Models-Views-Controllers_) Project Structure
@@ -79,7 +86,7 @@ Topics:
 
 ## (10/19 - 10/22) Week 7
 
-Topics: 
+Topics:
 
 - Using MVC app structure
 - Using Sequelize.js
@@ -87,7 +94,7 @@ Topics:
 
 ## (10/26 - 10/29) Week 8
 
-Topics: 
+Topics:
 
 - **_Project Presentations_**
 - Using Sequelize.js
@@ -95,7 +102,7 @@ Topics:
 
 ## (11/2 - 11/5) Week 9
 
-Topics: 
+Topics:
 
 - Implementing Authentication
 - Sessions
@@ -111,7 +118,7 @@ Topics:
 
 ## (11/16 - 11/19) Week 11
 
-Topics: 
+Topics:
 
 - _Lab Time: Work on Projects_
 
@@ -122,13 +129,13 @@ Topics:
 
 ## (11/30 - 12/3) Week 12
 
-Topics: 
+Topics:
 
 - _Lab Time: Work on Projects_
 
 ## (12/7 - 12/10) Week 13
 
-Topics: 
+Topics:
 
 - Practice Demo Night Pitches and Demos
 - _Lab Time: Work on Projects_
