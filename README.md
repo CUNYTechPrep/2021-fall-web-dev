@@ -27,12 +27,15 @@ Topics:
 
 Assignments:
 
-- Project Ideation: provide your idea in the ideation document
-    + Due before Week 2 class
-- Meet your classmates and form team
-    + Due before Week 3 class
+- **Setup your [Development Environment](https://github.com/CUNYTechPrep/guides#development-environment-setup)**
+    + Due ASAP (nothing to submit)
+- **Project Ideation**: provide your idea in the ideation document
+    + *If you did not finish this in class finish it before Week 2*
+- Meet your classmates and **form teams**
+    + Read through your classmates ideas and contact them over slack
+    + Formed teams due in Week 3 class
 - Make a [Professional Portfolio Website](https://github.com/CUNYTechPrep/bootstrap-lab#project-2-build-a-personal-professional-web-page-for-yourself)
-    + Due before Week 5 class
+    + Due in Week 5 class
 
 ## (9/7 - 9/10) NO CLASS
 
