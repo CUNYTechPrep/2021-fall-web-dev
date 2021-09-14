@@ -351,21 +351,6 @@ In this example we initialize state in the constructor and update it in the `han
 Check out a similar and funny example:
 https://jsbin.com/xemiboniye/1/edit?html,js,output
 
-## Step 11. Exercise: Toggle Boards
+## Step 11. Lab: Toggle Boards
 
-In the following example, we have 3 boards, and a toggle button. 
-
-- Initially, the first board is active and has a green border. 
-- When you press the toggle button, the second board should be active, and the first one should be inactive. 
-- When you reach the end, the first one should become active again.
-
-To start off and understand the desired toggle effect, try changing
-`let isSelected = ii === 0;`
-to
-`let isSelected = ii === 1;`
-
-https://glitch.com/edit/#!/spice-banana?path=src/BoardSwitcher.js:21:6
-
-You can import the JS code and its CSS into you local react-app so that you don't have to use glitch.
-
-> I recommend downloading the code and css locally to try this example out. If you prefer an online environment I've also made a glitch version (https://glitch.com/edit/#!/spice-banana?path=src/BoardSwitcher.js:21:6) here you can code and the code will be compiled and run for you. Make sure to 1) click "Remix to edit" button on the top right and then 2) click the "Show" button on the top left to see the output.
+Complete the lab in this repository: https://github.com/CUNYTechPrep/react-lab-1
