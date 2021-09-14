@@ -44,9 +44,20 @@ Assignments:
 
 > If you can't attend Wed 9/15 or Thur 9/16 class, contact your instructor to be excused.
 
+[Lecture Slides](materials/React-Intro-2021.pdf)
+
+[Learn React 1: Step by Step](materials/learn-react-1.md)
+
 Topics:
 
 - React Intro
+
+Assignments:
+
+* Team Project Proposals (**Due before week 3 class**)
+  * Form a **team of 3** students and submit a Team Project Propsal.
+  * [Team Project Proposal guidelines](materials/team-project-proposal.md)
+  * [Submit Here]()
 
 ## (9/21 - 9/24) Week 3
 
