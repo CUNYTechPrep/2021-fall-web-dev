@@ -57,7 +57,7 @@ Assignments:
 * Team Project Proposals (**Due before week 3 class**)
   * Form a **team of 3** students and submit a Team Project Propsal.
   * [Team Project Proposal guidelines](materials/team-project-proposal.md)
-  * [Submit Here]()
+  * [Submit Here](https://forms.gle/7fJF6MidVoGrSvHn7)
 
 ## (9/21 - 9/24) Week 3
 
