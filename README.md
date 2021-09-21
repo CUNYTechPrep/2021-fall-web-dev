@@ -61,6 +61,12 @@ Assignments:
 
 ## (9/21 - 9/24) Week 3
 
+[Lecture Slides: URL's and HTTP Request-Response](materials/urls-http-request-response.pdf)
+
+[Lecture Slides: fetch() and React](materials/fetch-and-react-2019.pdf)
+
+[Zip Code React Lab](https://github.com/CUNYTechPrep/zip-code-react-lab)
+
 Topics:
 
 - Client-Server Communication
