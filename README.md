@@ -99,6 +99,10 @@ Topics:
 
 ## (10/12 - 10/15) Week 6
 
+[Lecture Slides](materials/lecture-05.pdf)
+
+[Zip Code API Lab](https://github.com/CUNYTechPrep/zip-code-api-lab)
+
 Topics:
 
 - SDLC
@@ -118,7 +122,6 @@ Topics:
 
 Topics:
 
-- **_Project Presentations_**
 - Using Sequelize.js
 - Testing (Jest)
 
@@ -126,6 +129,7 @@ Topics:
 
 Topics:
 
+- **_Project Presentations_**
 - Implementing Authentication
 - Sessions
 - Passport.js, Bcrypt
@@ -162,7 +166,7 @@ Topics:
 - Practice Demo Night Pitches and Demos
 - _Lab Time: Work on Projects_
 
-## (Tentatively 12/14) DEMO NIGHT
+## (12/14) DEMO NIGHT
 
 ### Demo Night
 
