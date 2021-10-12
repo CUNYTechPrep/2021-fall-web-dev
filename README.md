@@ -84,6 +84,8 @@ Topics:
 
 ## (10/5 - 10/8) Week 5
 
+[Lecture Slides](materials/lecture-04.pdf)
+
 Topics:
 
 - Fullstack Review: Frontend vs Backend
