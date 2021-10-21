@@ -112,11 +112,22 @@ Topics:
 
 ## (10/19 - 10/22) Week 7
 
+[Project Starter repository](https://github.com/CUNYTechPrep/project-starter)
+
 Topics:
 
 - Using MVC app structure
-- Using Sequelize.js
-- How to design an app using: mockups, models, and routes
+- Project Starter setup and walkthrough
+
+Assignments:
+
+* **First Project Presentation**
+  * During Week 9 class (11/2 - 11/5)
+  * Presentation Guidelines
+    * 8 minutes per team (5 min presentation, 3 min Q&A)
+    * All team members must present at least one slide
+    * See a presentation template here: [first_project_presentation_template.pdf](materials/first_project_presentation_template.pdf)
+    * (_Optional_) Show a demo of work in progress if you can
 
 ## (10/26 - 10/29) Week 8
 
