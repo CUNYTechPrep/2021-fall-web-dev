@@ -131,6 +131,8 @@ Assignments:
 
 ## (10/26 - 10/29) Week 8
 
+[Learn Sequelize Lab](https://github.com/CUNYTechPrep/learn-sequelize)
+
 Topics:
 
 - Using Sequelize.js
@@ -147,6 +149,8 @@ Topics:
 
 ## (11/9 - 11/12) Week 10
 
+[Code Reviews Slides](materials/code-reviews.pdf)
+
 Topics:
 
 - Code Reviews
@@ -155,8 +159,11 @@ Topics:
 
 ## (11/16 - 11/19) Week 11
 
+[Project Starter: local authentication branch](https://github.com/CUNYTechPrep/project-starter/tree/local-auth)
+
 Topics:
 
+- Deploying to Heroku
 - _Lab Time: Work on Projects_
 
 ## (11/23 - 11/26) NO CLASS
@@ -181,5 +188,5 @@ Topics:
 
 ### Demo Night
 
-- Location: _TBA_
-- Time: _TBA_
+- Location: _Online_
+- Time: December 14, 2021 -- 5:30pm-7pm_
