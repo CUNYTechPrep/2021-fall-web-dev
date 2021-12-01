@@ -159,6 +159,8 @@ Topics:
 
 ## (11/16 - 11/19) Week 11
 
+[Adding Local Authentication Slides](materials/Adding-Local-Authentication.pdf)
+
 [Project Starter: local authentication branch](https://github.com/CUNYTechPrep/project-starter/tree/local-auth)
 
 Topics:
